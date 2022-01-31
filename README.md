@@ -1,2 +1,2 @@
 # gridgame-js
-A simple grid game inspired by pacman. Testing rendering with javascript and some pathfinding mechanics. 
+A simple grid based game inspired by Pacman.
